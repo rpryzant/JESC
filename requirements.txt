@@ -1,0 +1,9 @@
+pyenchant
+joblib
+difflib
+pysrt
+guessit
+tqdm
+pyunpack
+ffmpy
+nltk
