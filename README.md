@@ -29,5 +29,13 @@ Each file is a standalone tool with usage instructions given in the comment head
 Please give the proper citation or credit if you use these data:
 
 ```
-LREC citation
-```
+@ARTICLE{pryzant_jesc_2017,
+   author = {{Pryzant}, R. and {Chung}, Y. and {Jurafsky}, D. and {Britz}, D.},
+    title = "{JESC: Japanese-English Subtitle Corpus}",
+  journal = {ArXiv e-prints},
+archivePrefix = "arXiv",
+   eprint = {1710.10639},
+ keywords = {Computer Science - Computation and Language},
+     year = 2017,
+    month = oct,
+}             ```
