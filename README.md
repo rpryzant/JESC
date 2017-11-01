@@ -4,8 +4,8 @@
 
 Welcome to the JESC code release! This repo contains the crawlers, parsers, aligners, and various tools used to create the Japanese-English Subtitle Corpus (JESC). 
 
-* [JESC homepage](https://cs.stanford.edu/~rpryzant/jesc/)
-* [JESC paper](https://arxiv.org/abs/1710.10639)
+* [dataset homepage](https://cs.stanford.edu/~rpryzant/jesc/)
+* [paper presenting this dataset](https://arxiv.org/abs/1710.10639)
 
 
 ## Requirements
